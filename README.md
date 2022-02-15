@@ -1,6 +1,6 @@
 # Codecademy Programming with Python Immersive: final project
 
-This is and app I wrote for my codecademy capstone a few years ago. It provides a framework for a service that allows users to rate books.
+This is an app I wrote for my codecademy capstone a few years ago. It provides a framework for a service that allows users to rate books.
 
 It has quite a bit of basic functionality built in, including:
 - adding, removing and modifying users and their info (books read, average rating)
