@@ -1,5 +1,3 @@
-#Note to reviewer: When I ran populate.py from the command line, though my code seemed to work, there were periodic "None" generated as output and I'm not sure why -- sorry! These disappeared when I ran individual methods from the command line, e.g. Tome_Rater.most_positive_user(), etc., didn't generate these.
-
 #TomeRater. An application that stores books and their users and reviews.
 
 #Creates User
